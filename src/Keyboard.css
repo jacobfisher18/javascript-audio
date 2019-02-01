@@ -1,0 +1,22 @@
+.Keyboard {
+  height: 400px;
+  width: 600px;
+  background: #D8D8D8;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+.key {
+  height: 60px;
+  width: 40px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.white {
+  background-color: blue;
+}
+
+.pressed {
+  background-color: red;
+}
